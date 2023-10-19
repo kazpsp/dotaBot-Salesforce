@@ -1,0 +1,9 @@
+.apex
+.idea
+.jetforcer
+/src/applications
+/src/layouts
+/src/objects
+/src/workflows
+/src/tabs
+/src/pages
